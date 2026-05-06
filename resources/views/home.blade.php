@@ -19,11 +19,11 @@
 </section>
 
 <!-- DESCRIPCIÓN -->
-<section class="py-5 bg-light">
+<section class="py-5" style="margin-bottom: 6%;">
     <div class="container text-center">
         <h2 class="mb-3">EssenzeBell</h2>
         <p class="text-muted">
-            Ofrecemos productos de limpieza de alta calidad para hogares y empresas.
+            Ofrecemos productos de limpieza de alta calidad para hogares y empresas.<br>
             Nuestro objetivo es brindarte soluciones eficientes, accesibles y confiables
             para mantener tus espacios impecables.
         </p>
